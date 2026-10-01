@@ -1,0 +1,6 @@
+: Create a component called PostList that: 
+* Fetches posts from https://jsonplaceholder.typicode.com/posts 
+* Shows only the first 8 posts 
+* Shows "Loading posts..." while fetching 
+* Displays each post's title and body 
+* Handles errors with "Failed to load posts."
